@@ -9,3 +9,6 @@
 - 7 - c, k, g (hard), q
 - 8 - f, v
 - 9 - p, b
+
+### English dictionary used from:
+https://github.com/dwyl/english-words
