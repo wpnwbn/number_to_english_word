@@ -10,5 +10,5 @@
 - 8 - f, v
 - 9 - p, b
 
-### English dictionary used from:
+### English dictionary copied from:
 https://github.com/dwyl/english-words
